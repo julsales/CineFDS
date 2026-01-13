@@ -55,3 +55,4 @@ coverage.xml
 build/
 dist/
 *.egg-info/
+staticfiles/
