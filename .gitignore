@@ -1,1 +1,57 @@
+# Virtual Environment
 venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3-journal
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# pytest
+.pytest_cache/
+
+# Environments
+.env
+.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
